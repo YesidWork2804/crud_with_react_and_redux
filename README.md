@@ -9,9 +9,9 @@ Este proyecto fue creado con React, una biblioteca de JavaScript para construir 
 - ![icono de tailwind]( https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900964/Iconos/Tailwind_ulewag.png) Tailwind
 
 ## Capturas de pantalla
-![cap_1](assets/images/captura_1.PNG)
-![cap_1](assets/images/captura_2.PNG)
-![cap_1](assets/images/captura_3.PNG)
+![cap_1](assets/images/captura_1.png)
+![cap_2](assets/images/captura_2.PNG)
+![cap_3](assets/images/captura_3.PNG)
 
 
 ## Créditos
