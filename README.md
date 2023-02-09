@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# CRUD con React y Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue creado con React, una biblioteca de JavaScript para construir aplicaciones web. Además, se utilizó UUID para generar identificadores únicos para cada persona registrada en la aplicación, ReactRouter para manejar las rutas de la aplicación, y Redux Toolkit para el manejo de estados. La aplicación permite registrar, editar y eliminar información básica de una persona, como su correo y nombre. La aplicación es responsiva y está en inglés. Para los estilos se utilizó TailwindCSS y Hero Icon.
 
-## Available Scripts
+## Tecnologías principales
+- ![icono de React]( https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React
+- ![icono de Redux]( https://res.cloudinary.com/dyvccdkkl/image/upload/v1675899128/Iconos/ReduxToolkit_dfmxvd.png) Redux Toolkit
+- ![icono de react-router](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900978/Iconos/react-router-logo_qyok8m.png) React-router
+- ![icono de tailwind]( https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900964/Iconos/Tailwind_ulewag.png) Tailwind
 
-In the project directory, you can run:
+## Capturas de pantalla
+![cap_1](assets/images/captura_1.PNG)
+![cap_1](assets/images/captura_2.PNG)
+![cap_1](assets/images/captura_3.PNG)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Créditos
+Este proyecto fue creado a partir de un video tutorial de YouTube del canal Cand Dev: https://www.youtube.com/watch?v=SgnlgEEkqSo&t=1s
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Link
+Puedes ver la aplicación en funcionamiento en el siguiente enlace:
+[Live site URL](https://crud-react-redux-toolkit.netlify.app)
